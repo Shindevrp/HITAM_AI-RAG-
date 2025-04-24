@@ -5,10 +5,10 @@ AI-Powered Conversational Retrieval System — A state-of-the-art platform that 
 
 ---
 
-## 🧠 AI OVERVIEW
+## AI OVERVIEW
 A visionary AI-engineered platform orchestrating deep embeddings, dynamic memory, and real-time conversational intelligence. Every component resonates with intelligent design, amplifying user queries into semantically enriched responses.
 
-## 🔍 AI-Powered FEATURES
+##  AI-Powered FEATURES
 - **Streamlit Neural Interface**: Rapid AI UI deployment for intuitive human–AI interaction.
 - **OpenAI Semantic Embeddings**: Transformer-driven embeddings capturing contextual nuance.
 - **Pinecone Vector Intelligence**: Persistent AI-backed vector store for ultra-fast similarity search.
@@ -16,7 +16,7 @@ A visionary AI-engineered platform orchestrating deep embeddings, dynamic memory
 - **Cognitive Memory Module**: Persistent conversational AI memory for contextual continuity.
 - **Prompt Engineering Suite**: AI-crafted prompts delivering precision-guided responses.
 
-## ⚙️ AI INSTALLATION
+##  AI INSTALLATION
 1. Clone the AI repository:  
    ```bash
    git clone https://github.com/your-username/ai-conversational-system.git
@@ -32,7 +32,7 @@ A visionary AI-engineered platform orchestrating deep embeddings, dynamic memory
    pip install -r requirements.txt
    ```
 
-## 🔐 AI CONFIGURATION
+##  AI CONFIGURATION
 1. Create `creds.py` at project root with:  
    ```python
    openai_key = "YOUR_OPENAI_API_KEY"
@@ -41,17 +41,17 @@ A visionary AI-engineered platform orchestrating deep embeddings, dynamic memory
    ```
 2. Ensure AI keys have vector store and embedding access.
 
-## 🚀 AI USAGE
+##  AI USAGE
 Launch the AI interface and ignite semantic dialogues:  
 ```bash
 streamlit run app.py
 ```  
 Enter queries to witness AI-driven retrieval and generative synthesis in real time.
 
-## 🏗️ SYSTEM ARCHITECTURE
+##  SYSTEM ARCHITECTURE
 A detailed overview of how components interact end-to-end:
 
-```mermaid
+
 flowchart LR
     subgraph UI
         A[Streamlit Front-End]
@@ -74,7 +74,6 @@ flowchart LR
     H --> E
     G --> A
     I --> B
-```
 
 Each module:
 - **Streamlit Front-End**: Collects user queries and renders AI responses.
