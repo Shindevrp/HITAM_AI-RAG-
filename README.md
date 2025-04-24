@@ -19,7 +19,7 @@ A visionary AI-engineered platform orchestrating deep embeddings, dynamic memory
 
 ---
 
-## ⚙️ AI INSTALLATION
+## AI INSTALLATION
 1. Clone the AI repository:
    ```bash
    git clone https://github.com/Shindevrp/hitam_ai.git
