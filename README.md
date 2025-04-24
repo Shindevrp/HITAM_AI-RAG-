@@ -19,7 +19,7 @@ A visionary AI-engineered platform orchestrating deep embeddings, dynamic memory
 ##  AI INSTALLATION
 1. Clone the AI repository:  
    ```bash
-   git clone https://github.com/your-username/ai-conversational-system.git
+   git clone https://github.com/************/ai-conversational-system.git
    cd ai-conversational-system
    ```
 2. Initialize AI environment:  
@@ -51,7 +51,7 @@ Enter queries to witness AI-driven retrieval and generative synthesis in real ti
 ##  SYSTEM ARCHITECTURE
 A detailed overview of how components interact end-to-end:
 
-
+'''
 flowchart LR
     subgraph UI
         A[Streamlit Front-End]
@@ -74,7 +74,7 @@ flowchart LR
     H --> E
     G --> A
     I --> B
-
+'''
 Each module:
 - **Streamlit Front-End**: Collects user queries and renders AI responses.
 - **Query Processor**: Orchestrates embedding requests and retrieval routines.
